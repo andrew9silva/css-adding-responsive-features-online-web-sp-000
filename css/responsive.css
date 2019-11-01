@@ -29,5 +29,9 @@
     top: 72px;
   }
 
-  
+  col-3 p {
+    -moz-column-rule: 
+    -webkit-column-rule:
+    column-rule:
+  }
 }
