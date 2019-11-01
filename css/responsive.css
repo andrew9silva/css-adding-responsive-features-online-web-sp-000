@@ -46,4 +46,8 @@
     -webkit-column-count: 1;
     column-count: 1;
   }
+
+  .border-right {
+    border: 0;
+  }
 }
